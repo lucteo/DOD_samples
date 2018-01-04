@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+gameobject/CMakeFiles/*
+gameobject/CMakeCache.txt
+
+gameobject/cmake_install.cmake
+
+gameobject/gameobject
+
+gameobject/Makefile
