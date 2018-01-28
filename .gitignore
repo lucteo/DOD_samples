@@ -31,11 +31,15 @@
 *.out
 *.app
 
-gameobject/CMakeFiles/*
-gameobject/CMakeCache.txt
-
-gameobject/cmake_install.cmake
+# Build system
+.ninja*
+*.ninja
+build.ninja
+cmake_*
+CMakeCache.txt
+CMakeFiles
 
 gameobject/gameobject
-
 gameobject/Makefile
+
+cpufreelunch/cpufreelunch
